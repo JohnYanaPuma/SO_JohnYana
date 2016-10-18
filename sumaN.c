@@ -14,7 +14,7 @@ int main(){
 		scanf("%d", (numero+i));
 			suma = suma + *(numero+i);
 }
-	printf("\n La suma de los numero ingresados es: %d\n",suma);
+	printf("\n La suma de los numero ingresados es es es: %d\n",suma);
 
 	free(numero);
 printf("\n memoria liberada\n");
